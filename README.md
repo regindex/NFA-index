@@ -1,6 +1,6 @@
 # p-sort-index
 
-This tool build an index for a sorted NFA that, support count, locate and membership query. The index implemented is a refine version of [1]
+This tool build an index for a sorted NFA that, support count, locate and membership query. The index implemented is a refined version of [1]
 
 ### Requirements
 
