@@ -1,0 +1,23 @@
+---
+Language:        Cpp
+BasedOnStyle:    Google  # Other options: LLVM, Chromium, Mozilla, WebKit
+IndentWidth:     4
+TabWidth:        4
+UseTab:          Never   # Options: ForIndentation, ForContinuationAndIndentation, Always, Never
+ColumnLimit:     120     # Line length limit
+
+# Spacing and Bracing styles
+AllowShortIfStatementsOnASingleLine: true
+BreakBeforeBraces:  Attach  # Options: Attach, Stroustrup, Allman, etc.
+SpacesInParentheses: false
+SpaceBeforeParens:  ControlStatements  # Options: Always, Never, ControlStatements
+
+# Pointer and Reference alignment
+PointerAlignment:   Right   # Options: Left, Right, Middle
+
+# Miscellaneous
+AccessModifierOffset: -2
+KeepEmptyLinesAtTheStartOfBlocks: true
+SortIncludes: true
+AllowShortIfStatementsOnASingleLine: true
+...
