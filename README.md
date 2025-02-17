@@ -1,4 +1,4 @@
-# p-sort-index
+# NFA-index
 
 This tool build an index for a sorted NFA that, support count, locate and membership query. The index implemented is a refined version of [1]
 
